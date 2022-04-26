@@ -1,0 +1,28 @@
+{
+  "name": "applemusicrpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexa-RR/AppleMusicRPC.git"
+  },
+  "author": "Alexa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexa-RR/AppleMusicRPC/issues"
+  },
+  "homepage": "https://github.com/Alexa-RR/AppleMusicRPC#readme",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "discord-rpc": "^4.0.1",
+    "express": "^4.18.0",
+    "itunes-bridge": "^0.6.7",
+    "localtunnel": "^2.0.2",
+    "ngrok": "^4.3.1",
+    "node-osascript": "^2.1.0"
+  }
+}
